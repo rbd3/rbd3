@@ -29,7 +29,8 @@ Welcome to my Github page! I am Narson and I am a Full-Stack Developer!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 </p>
-- 📫 How to reach me: 
+
+**📫 How to reach me:** 
   - GitHub: [@rbd3](https://github.com/rbd3)
   - Twitter: [@Narson321](https://twitter.com/@Narson321)
   - LinkedIn [@Andry Narson Rabedesana](https://linkedin.com/in/andry-narson-rabedesana-15b8b4248)
