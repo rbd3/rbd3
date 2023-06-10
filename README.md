@@ -27,9 +27,9 @@ Welcome to my Github page! I am Narson and I am a Full-Stack Developer!
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
-<code><img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
+<code><img width="10%" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code> <img height="64px" width="10%" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+<code> <img width="10%" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 
 </p>
 
