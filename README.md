@@ -26,7 +26,10 @@ Welcome to my Github page! I am Narson and I am a Full-Stack Developer!
 <code><img width="10%" alt="Ruby" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+<code><img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code> <img height="64px" width="10%" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 
 </p>
 
@@ -66,7 +69,7 @@ Welcome to my Github page! I am Narson and I am a Full-Stack Developer!
       </td>
       <td width="25%" align="center">
         <span><strong>Vs Code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+       
       </td>
     </tr>
 
