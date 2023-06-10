@@ -25,7 +25,7 @@ Welcome to my Github page! I am Narson and I am a Full-Stack Developer!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <br />
-<a href="https://www.flaticon.com/free-icons/database" title="database icons"></a>
+<a href="https://www.flaticon.com/free-icons/database" title="database icons">ss</a>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <br />
