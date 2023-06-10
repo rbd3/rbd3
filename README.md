@@ -11,6 +11,7 @@ Welcome to my Github page! I am Narson and I am a Full-Stack Developer! Looking 
 
 #### :computer: Programming languages and tools: 
 <p>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" alt="Django" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU"></code>
 <code><img width="10%" alt="Ruby" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
