@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andry-narson-rabedesana-15b8b4248)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rabedesanaa@gmail.com)
 
-Welcome to my Github page! I am Narson and I am a Full-Stack Developer! Looking for new opportunities! :smile:
+Welcome to my GitHub page! I am Narson, and I am a Full-Stack Developer! Looking for new opportunities! :smile:
 
 
 #### :computer: Programming languages and tools: 
