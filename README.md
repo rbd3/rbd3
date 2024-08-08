@@ -14,6 +14,7 @@ Welcome to my GitHub page! I am Narson, and I am a Full-Stack Developer! Looking
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" alt="Django" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU"></code>
 <code><img width="10%" alt="Ruby" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
+<code><img width="10%" alt="Rails" src="https://www.google.com/search?client=firefox-b-e&sca_esv=87cd9f5db8b9fddc&sca_upv=1&sxsrf=ADLYWII9pKlLEEscarykwrWMRmKBgZUjJw:1723100577180&q=rails&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JzEq8sk6FPCPzvp42tv1tXrkTLHakbUui6kohY8mGbK-3UQH4ayqowvll8jC6d-MhxYqBa2W1Nd6Zza3eQEhKq2MTUOIS0GM6rBTDZMM601gfDfRdDHPcG5qZtsAMtpalfa2o8Idef5F_qof1GDGfjENvt6u&sa=X&ved=2ahUKEwjRrMLu6eSHAxU2UkEAHWPZOlcQtKgLegQIFRAB&biw=1366&bih=617&dpr=1#vhid=MILBv4TzszrH9M&vssid=mosaic"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
